@@ -1,4 +1,5 @@
-import os
+import os langchain langchain-openai langchain-mcp-adapters mcp 
+
 os.environ["OPENAI_API_KEY"] = "your-openai-key"
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "service-account.json"
 
